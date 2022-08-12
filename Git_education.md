@@ -18,6 +18,6 @@
 7. Чтобы посмотреть, что находится в конкретном сохраненном "commit", требуется ввести в терминале следующую команду: " git checkout" пробел и минимум первые четыре цифры id "commit".
 Чтобы вернуться в последний сохраненный "commit" требуется ввести в терминале следующую команду: "git checkout master" или "git switch -".
 
-Это [ссылка](https://github.com/git-for-windows/git/releases/download/v2.37.1.windows.1/Git-2.37.1-64-bit.exe "the latest (2.37.1) 64-bit version of Git for Windows") на скачивание Git.
+Ссылка и картинка: Это [ссылка](https://github.com/git-for-windows/git/releases/download/v2.37.1.windows.1/Git-2.37.1-64-bit.exe "the latest (2.37.1) 64-bit version of Git for Windows") на скачивание Git.
 
 ![logo Git](https://miro.medium.com/max/1400/1*L1wCPhdvK2guitLVNVCEtw.jpeg)
