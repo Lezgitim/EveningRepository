@@ -19,6 +19,6 @@
 Чтобы вернуться в последний сохраненный "commit" требуется ввести в терминале следующую команду: "git checkout master" или "git switch -".
 
 Ссылка и картинка: Это [ссылка](https://github.com/git-for-windows/git/releases/download/v2.37.1.windows.1/Git-2.37.1-64-bit.exe "the latest (2.37.1) 64-bit version of Git for Windows") на скачивание Git.
-
+P.S.
 Это логотип: ![logo Git](https://miro.medium.com/max/1400/1*L1wCPhdvK2guitLVNVCEtw.jpeg)
 
